@@ -28,5 +28,4 @@ O design do AcquaSense está sendo desenvolvido no Figma. Você pode visualizar 
 Para dúvidas ou suporte, entre em contato pelo email acquasense@gmail.com
 
 ---
-
-Agradecemos por usar o AcquaSense! Juntos, podemos fazer a diferença na preservação dos recursos hídricos.
+Juntos, podemos fazer a diferença na preservação dos recursos hídricos.
