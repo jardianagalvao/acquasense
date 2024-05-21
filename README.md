@@ -1,5 +1,5 @@
 # AcquaSense
-Projeto Aplicado Desenvolvimento de Software, Análise e Desenvolvimento UNIFOR 
+Projeto Aplicado Desenvolvimento de Software, Análise e Desenvolvimento de Sistemas - UNIFOR 
 
 ## Descrição
 
