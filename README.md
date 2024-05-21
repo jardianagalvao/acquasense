@@ -19,7 +19,7 @@ O **AcquaSense** é uma ferramenta inovadora de monitoramento de consumo e vazam
 
 O design do AcquaSense está sendo desenvolvido no Figma. Você pode visualizar o protótipo clicando no link abaixo:
 
-[Visualizar Protótipo Web no Figma] (https://www.figma.com/design/YjLlMfOQNbKnGjSXzZ1IJE/Acqua-Sense-(Copy)?node-id=819-608&t=4VeRXrxLw1TdH638-0)
+[Visualizar Protótipo Web no Figma] (https://www.figma.com/design/YjLlMfOQNbKnGjSXzZ1IJE/Acqua-Sense-(Copy)?node-id=819-608&t=4VeRXrxLw1TdH638-0) </br>
 [Visualizar Protótipo Mobile no Figma] (https://www.figma.com/design/YjLlMfOQNbKnGjSXzZ1IJE/Acqua-Sense-(Copy)?node-id=0-1&t=4VeRXrxLw1TdH638-0))
 
 
