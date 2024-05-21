@@ -1,5 +1,7 @@
 AcquaSense
-Descrição
+
+
+<Strong>Descrição</Strong>
 O AcquaSense é uma ferramenta inovadora de monitoramento de consumo e vazamento de água, projetada para promover o uso eficiente e sustentável desse recurso vital. Utilizando sensores de última geração, o AcquaSense coleta dados em tempo real sobre o consumo de água e verifica a ocorrência de vazamentos, permitindo uma gestão mais eficaz e econômica.
 
 Nota: Atualmente, o projeto está na fase de prototipação de alto nível utilizando o Figma.
